@@ -3,4 +3,4 @@
 This repository contains the Jupyter Notebook with the full statistical methodology and data pipeline developed for my Final Degree Project (Statistics UB-UPC).
 
 ### Confidentiality Note
-To protect company privacy, all raw data and live outputs have been cleared from this notebook. However, the complete visual results, figures, and final plots can be fully reviewed in the Appendix section of the main TFG document.
+To protect company privacy, some outputs have been cleared from this notebook. 
